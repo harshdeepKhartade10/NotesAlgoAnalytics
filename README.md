@@ -1,6 +1,8 @@
 # Note Sharing Platform
 
+
 A full-stack web application for sharing thoughts and stories through notes. Built with React, Node.js, and MongoDB.
+
 
 ## Features
 
